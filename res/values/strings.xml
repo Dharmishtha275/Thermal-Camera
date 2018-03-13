@@ -1,0 +1,8 @@
+<resources>
+
+    <string name="app_name">GPUImage Sample</string>
+    <string name="title_activity_activity_main">GPUImage Sample</string>
+       <string name="account_name">MNM</string>
+    <string name="folder_name">Pictures</string>
+
+</resources>
